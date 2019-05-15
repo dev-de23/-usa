@@ -3,5 +3,5 @@ prefix=A
 game=play
 stayinchannel=false
 songinstatus=false
-token=NTc4MDcwNTAwMzQxNzEwODQ4.XNuYkg.4ON-VMoaRR1ApeunWznKlxVP1i8
+token=NTc4MDcwNDI3MDI5NzMzMzg3.XNubkQ.AXhBATV66ZPaBbF8pbeACqV6DxM
 token2=NTc4MDcwNDI3MDI5NzMzMzg3.XNuZBA.DRUVFmtSqQN5Mfu5cXAhAjGRl2g
