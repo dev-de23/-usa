@@ -1,6 +1,6 @@
 owner=576947377441603584
 prefix=A
-game=play
+game=Aplay
 stayinchannel=false
 songinstatus=false
 token=NTc4MDcwNDI3MDI5NzMzMzg3.XNubkQ.AXhBATV66ZPaBbF8pbeACqV6DxM
